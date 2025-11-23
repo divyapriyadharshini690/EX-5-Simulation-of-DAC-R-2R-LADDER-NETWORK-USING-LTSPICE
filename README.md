@@ -29,6 +29,7 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-23 at 15 36 32_c969750e](https://github.com/user-attachments/assets/00159e6c-5a75-42dd-890a-aef1cbbf5591)
 
 
 ---
