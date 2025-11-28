@@ -24,7 +24,8 @@
 
 ---
 ## MODEL GRAPH
-<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
+![WhatsApp Image 2025-11-28 at 08 54 59_49d1abec](https://github.com/user-attachments/assets/5626bb46-4ae3-4625-a828-af714700698d)
+
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
