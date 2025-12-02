@@ -26,11 +26,10 @@
 ## MODEL GRAPH
 ![WhatsApp Image 2025-11-28 at 08 54 59_49d1abec](https://github.com/user-attachments/assets/5626bb46-4ae3-4625-a828-af714700698d)
 
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-23 at 15 36 32_c969750e](https://github.com/user-attachments/assets/00159e6c-5a75-42dd-890a-aef1cbbf5591)
+<img width="1045" height="369" alt="DD ADC" src="https://github.com/user-attachments/assets/2a7a278b-78c5-474a-b771-4b81596ccde0" />
 
 
 ---
