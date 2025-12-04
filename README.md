@@ -28,6 +28,8 @@
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 12 59 40_72dfc36d](https://github.com/user-attachments/assets/39bbcdae-5558-41d5-88a2-33c1340af305)
+
 ![WhatsApp Image 2025-11-23 at 15 36 32_c969750e](https://github.com/user-attachments/assets/00159e6c-5a75-42dd-890a-aef1cbbf5591)
 <img width="1045" height="369" alt="DD ADC" src="https://github.com/user-attachments/assets/2a7a278b-78c5-474a-b771-4b81596ccde0" />
 
